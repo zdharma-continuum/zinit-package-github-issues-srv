@@ -21,7 +21,7 @@
     "bugs": {
         "url": "https://github.com/zdharma/zsh-github-issues/issues"
     },
-    "version" : "1.0.0",
+    "version": "1.0.1",
     "contributors": [],
     "dependencies": {},
     "deprecated": false,
@@ -47,7 +47,7 @@
         },
         "zplugin-ices": {
             "default": {
-                "git" : "",
+                "git": "",
                 "lucid": "",
                 "service": "GIT",
                 "pick": "zsh-github-issues.service.zsh",
