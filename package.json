@@ -50,7 +50,8 @@
                 "git" : "",
                 "lucid": "",
                 "service": "GIT",
-                "pick": "zsh-github-issues.service.zsh"
+                "pick": "zsh-github-issues.service.zsh",
+                "atpull": "%atclone"
             }
         }
     }
