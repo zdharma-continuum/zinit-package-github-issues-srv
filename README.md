@@ -1,7 +1,5 @@
 # zdharma/zsh-github-issues as a Zsh package
 
-##### NPM link: [https://www.npmjs.com/package/zsh-github-issues](https://www.npmjs.com/package/zsh-github-issues)
-
 ##### Homepage link: [zdharma/zsh-github-issues](https://github.com/zdharma/zsh-github-issues)
 
 | **Package source:** | Tarball | Git | Node | Gem |
